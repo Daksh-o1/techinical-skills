@@ -16,3 +16,8 @@ public class all_max_ele {
     }
 
 }
+
+// to minimize the time, make all elements equal to the maximum element in the array
+// 1. find the max ele.
+// 2. for every element calculate how much it need to be increase to reach the maximum
+// 3. sum all those differences.
