@@ -12,3 +12,8 @@ public class target_sum {
         }
     }
 }
+
+// wap to sum up upper daigonal element of a matrix
+// sum of lower diagonal of a matrix
+// wap to find sum of every column of a matrix
+// sum of every row of a matrix
