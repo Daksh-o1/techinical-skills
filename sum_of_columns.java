@@ -11,7 +11,7 @@ public class sum_of_columns {
         int [][] matrix = new int[rows][cols];
         for(int i =0; i<rows; i++){
             for(int j =0; j<cols;j++){
-                System.out.print("Enter element: ");
+                // System.out.print("Enter element: ");
                 matrix[i][j] = sc.nextInt();
             }
         }
@@ -26,4 +26,3 @@ public class sum_of_columns {
     }
 }
 
-//wap to find second largest element of the array
