@@ -26,8 +26,10 @@ public class sum_of_frame_ele {
             for(int j = 0;j<cols;j++){
                 if(i==0||j==0||i==row-1||j==cols-1){
                     sum += matrix[i][j];
+                    System.out.print(matrix[i][j]+" ");
                 }
             }
+            System.out.println();
         }
 
         System.out.println("sum: "+ sum);
